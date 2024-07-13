@@ -9,10 +9,7 @@
 *.ss[0-9]
 *.sg1
 *.1bpp
-*.4bpp
 *.8bpp
-*.gbapal
-*.lz
 *.rl
 *.latfont
 *.hwjpnfont
